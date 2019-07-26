@@ -1,0 +1,9 @@
+---
+title: "README"
+output: github_document
+---
+
+
+These files were used to create the Stuart_OSM2016 poster. 
+
+Because I used power point to create the poster, most of the plots were created using excel.  The maps were created in QGIS using the method described in the tutorial [Graphics for Conservation](https://www.oryxthejournal.org/writing-for-conservation-guide/improve-your-graphics.html) which used to be at http://scalar.usc.edu/works/graphics-for-conservation/index but moved to [Writing for Conservation](https://www.oryxthejournal.org/writing-for-conservation-guide/).
